@@ -1,6 +1,6 @@
 Name:		texlive-pmboxdraw
 Version:	53046
-Release:	1
+Release:	2
 Summary:	Poor man's box drawing characters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pmboxdraw
