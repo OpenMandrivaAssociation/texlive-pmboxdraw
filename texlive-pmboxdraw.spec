@@ -3,7 +3,7 @@ Version:	53046
 Release:	2
 Summary:	Poor man's box drawing characters
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pmboxdraw
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pmboxdraw
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pmboxdraw.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pmboxdraw.doc.r%{version}.tar.xz
